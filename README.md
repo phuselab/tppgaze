@@ -8,10 +8,10 @@
 [**Giuseppe Boccignone**](https://scholar.google.it/citations?user=LqM0uJwAAAAJ&hl=it&oi=ao),
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2410.23409)
 [![Conference](https://img.shields.io/badge/WACV-2025-0076B9?labelColor=007582)]()
 
-This is the **official repository** for the [**paper**]() "*TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes*".
+This is the **official repository** for the [**paper**](https://arxiv.org/abs/2410.23409) "*TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes*".
 
 ## Overview
 
