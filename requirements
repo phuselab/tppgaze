@@ -1,0 +1,6 @@
+torch
+torchvision
+omegaconf
+Pillow
+seaborn
+matplotlib

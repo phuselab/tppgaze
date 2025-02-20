@@ -1,0 +1,20 @@
+seed: 0
+
+# Computed from the train split
+mean_log_inter_times: -1.512609601020813
+std_log_inter_times: 0.5891745090484619
+
+temperature: 2
+distributions: mixture
+context:
+  type: transformer
+  size: 256
+metadata:
+  type: densenet
+  size: 256
+merge: cat
+
+dropout: 0.4
+
+marks_dist_components: 16
+durations_dist_components: 4
